@@ -18,7 +18,7 @@ and any Application developer can import your plugin and register it into their 
 The Sanic Plugins Framework is more than just a Blueprints-like system for Plugins. It provides an enhanced middleware
 system, and manages Context objects.
 
-The Enhanced Middleware System
+	The Enhanced Middleware System
 ------------------------------
 
 The Middleware system in the Sanic Plugins Framework both builds upon and extends the native Sanic middleware system.
